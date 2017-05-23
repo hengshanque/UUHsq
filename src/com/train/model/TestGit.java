@@ -1,8 +1,7 @@
 package com.train.model;
 
-public class TEs {
-
+public class TestGit {
 	public static void main(String[] args) {
-		System.out.println("abcdd");
+		System.out.println("acde");
 	}
 }
